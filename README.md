@@ -15,3 +15,7 @@ Project requirement:
     2. Find average goals scored in Away matches for each team
     3. Find the win rate for Home vs Away for each team
 
+Tools:
+ 1. Jupyter Notebook
+ 2. Postgresql Database
+ 3. Power Bi
