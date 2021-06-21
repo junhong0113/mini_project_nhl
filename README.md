@@ -5,13 +5,13 @@ Project requirement:
  1. Define the data model
  2. Perform data exploration
     1. Data profiling and understanding important features/variables
-    b. Identify outliers or missing values and clean the dataset
+    2. Identify outliers or missing values and clean the dataset
  3. Perform data quality checks
  4. Perform data transformation
-   a. Change all datetime to mm/dd/yyyy hh:mm
-   b. Remove any special characters
+    1. Change all datetime to mm/dd/yyyy hh:mm
+    2. Remove any special characters
  5.Perform data analysis
-   a. Find average goals scored in Home matches for each team
-   b. Find average goals scored in Away matches for each team
-   c. Find the win rate for Home vs Away for each team
+    1. Find average goals scored in Home matches for each team
+    2. Find average goals scored in Away matches for each team
+    3. Find the win rate for Home vs Away for each team
 
