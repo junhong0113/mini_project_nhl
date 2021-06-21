@@ -10,7 +10,7 @@ Project requirement:
  4. Perform data transformation
     1. Change all datetime to mm/dd/yyyy hh:mm
     2. Remove any special characters
- 5.Perform data analysis
+ 5. Perform data analysis
     1. Find average goals scored in Home matches for each team
     2. Find average goals scored in Away matches for each team
     3. Find the win rate for Home vs Away for each team
