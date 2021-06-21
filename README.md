@@ -1,2 +1,3 @@
 # mini_project_nhl
-NHL-Hockey; mini project of sgup-ct
+Data source: [NHL-dataset](https://www.kaggle.com/martinellis/nhl-game-data)
+Project requirement:
