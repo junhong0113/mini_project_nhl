@@ -4,7 +4,7 @@ Data source: [NHL-dataset](https://www.kaggle.com/martinellis/nhl-game-data)
 Project requirement:
  1. Define the data model
  2. Perform data exploration
-    a. Data profiling and understanding important features/variables
+    1. Data profiling and understanding important features/variables
     b. Identify outliers or missing values and clean the dataset
  3. Perform data quality checks
  4. Perform data transformation
