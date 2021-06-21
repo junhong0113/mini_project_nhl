@@ -19,3 +19,6 @@ Tools:
  1. Jupyter Notebook
  2. Postgresql Database
  3. Power Bi
+
+Power Bi report:
+* [report](https://app.powerbi.com/view?r=eyJrIjoiMTlkNWFiMjUtMjFlNi00NzRiLWJlZDUtMTg0OGI2ZGExMmU4IiwidCI6IjI1YTk5YmYwLThlNzItNDcyYS1hZTUwLWFkZmJkZjBkZjZmMSIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
