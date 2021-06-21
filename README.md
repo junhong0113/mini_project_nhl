@@ -4,8 +4,8 @@ Data source: [NHL-dataset](https://www.kaggle.com/martinellis/nhl-game-data)
 Project requirement:
  1. Define the data model
  2. Perform data exploration
-  1. Data profiling and understanding important features/variables
-   b. Identify outliers or missing values and clean the dataset
+    a. Data profiling and understanding important features/variables
+    b. Identify outliers or missing values and clean the dataset
  3. Perform data quality checks
  4. Perform data transformation
    a. Change all datetime to mm/dd/yyyy hh:mm
